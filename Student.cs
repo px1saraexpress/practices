@@ -1,4 +1,5 @@
-﻿using System.Globalization;
+using System.Diagnostics;
+using System.Globalization;
 
 class Student // Class 
 {
@@ -22,4 +23,31 @@ class Student // Class
             );
     }
 
+    public static void Print()
+    {
+        Console.WriteLine("static Print method called");
+    }
+
+
 }
+
+//////********************/////
+
+public static class India
+{
+    public static string Capital = " Delhi";
+}
+
+public class circle
+{
+    public int Radius;
+    public static float Pi = 3.14f;
+
+    public void Area()
+    {
+        Console.WriteLine($"Area of circle is = {Radius * Radius * Pi } cm");
+    }
+}
+
+
+
