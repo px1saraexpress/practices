@@ -1,0 +1,14 @@
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\bin\Debug\net8.0\Class_1.0.exe
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\bin\Debug\net8.0\Class_1.0.deps.json
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\bin\Debug\net8.0\Class_1.0.runtimeconfig.json
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\bin\Debug\net8.0\Class_1.0.dll
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\bin\Debug\net8.0\Class_1.0.pdb
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\obj\Debug\net8.0\Class_1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\obj\Debug\net8.0\Class_1.0.AssemblyInfoInputs.cache
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\obj\Debug\net8.0\Class_1.0.AssemblyInfo.cs
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\obj\Debug\net8.0\Class_1.0.csproj.CoreCompileInputs.cache
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\obj\Debug\net8.0\Class_1.0.dll
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\obj\Debug\net8.0\refint\Class_1.0.dll
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\obj\Debug\net8.0\Class_1.0.pdb
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\obj\Debug\net8.0\Class_1.0.genruntimeconfig.cache
+C:\Users\balaj\source\repos\B_Practics\Class_1.0\obj\Debug\net8.0\ref\Class_1.0.dll
