@@ -1,0 +1,14 @@
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\bin\Debug\net8.0\15_Class.exe
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\bin\Debug\net8.0\15_Class.deps.json
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\bin\Debug\net8.0\15_Class.runtimeconfig.json
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\bin\Debug\net8.0\15_Class.dll
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\bin\Debug\net8.0\15_Class.pdb
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\obj\Debug\net8.0\15_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\obj\Debug\net8.0\15_Class.AssemblyInfoInputs.cache
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\obj\Debug\net8.0\15_Class.AssemblyInfo.cs
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\obj\Debug\net8.0\15_Class.csproj.CoreCompileInputs.cache
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\obj\Debug\net8.0\15_Class.dll
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\obj\Debug\net8.0\refint\15_Class.dll
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\obj\Debug\net8.0\15_Class.pdb
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\obj\Debug\net8.0\15_Class.genruntimeconfig.cache
+C:\Users\Balaji Patre\source\repos\B_Practics\15_Class\obj\Debug\net8.0\ref\15_Class.dll
