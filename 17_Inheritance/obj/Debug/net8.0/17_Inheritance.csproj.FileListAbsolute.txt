@@ -1,0 +1,14 @@
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\bin\Debug\net8.0\17_Inheritance.exe
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\bin\Debug\net8.0\17_Inheritance.deps.json
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\bin\Debug\net8.0\17_Inheritance.runtimeconfig.json
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\bin\Debug\net8.0\17_Inheritance.dll
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\bin\Debug\net8.0\17_Inheritance.pdb
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\obj\Debug\net8.0\17_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\obj\Debug\net8.0\17_Inheritance.AssemblyInfoInputs.cache
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\obj\Debug\net8.0\17_Inheritance.AssemblyInfo.cs
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\obj\Debug\net8.0\17_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\obj\Debug\net8.0\17_Inheritance.dll
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\obj\Debug\net8.0\refint\17_Inheritance.dll
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\obj\Debug\net8.0\17_Inheritance.pdb
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\obj\Debug\net8.0\17_Inheritance.genruntimeconfig.cache
+C:\Users\balaj\source\repos\B_Practics\17_Inheritance\obj\Debug\net8.0\ref\17_Inheritance.dll
