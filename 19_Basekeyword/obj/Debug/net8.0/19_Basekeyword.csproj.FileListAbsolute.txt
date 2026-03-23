@@ -1,0 +1,14 @@
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\bin\Debug\net8.0\19_Basekeyword.exe
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\bin\Debug\net8.0\19_Basekeyword.deps.json
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\bin\Debug\net8.0\19_Basekeyword.runtimeconfig.json
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\bin\Debug\net8.0\19_Basekeyword.dll
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\bin\Debug\net8.0\19_Basekeyword.pdb
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\obj\Debug\net8.0\19_Basekeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\obj\Debug\net8.0\19_Basekeyword.AssemblyInfoInputs.cache
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\obj\Debug\net8.0\19_Basekeyword.AssemblyInfo.cs
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\obj\Debug\net8.0\19_Basekeyword.csproj.CoreCompileInputs.cache
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\obj\Debug\net8.0\19_Basekeyword.dll
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\obj\Debug\net8.0\refint\19_Basekeyword.dll
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\obj\Debug\net8.0\19_Basekeyword.pdb
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\obj\Debug\net8.0\19_Basekeyword.genruntimeconfig.cache
+C:\Users\balaj\source\repos\B_Practics\19_Basekeyword\obj\Debug\net8.0\ref\19_Basekeyword.dll
